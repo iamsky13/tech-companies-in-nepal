@@ -88,6 +88,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Mantra Ideas Pvt. Ltd.](http://mantraideas.com/) | Sankhamul , Kathmandu | IT Company providing services related to web and mobile app development
 - [Mercantile Communications Pvt. Ltd.](http://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
 - [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
+- [NITV Streamz Pvt. Ltd.](http://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
 
 ## P - R
@@ -111,9 +112,10 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [TECHRISE](http://www.techrise.me/) | Jhamsikhel, Lalitpur | Learning Platform combining 1-on-1 mentorship, project-based learning, and a friendly student community that will accelerate your path to becoming a web developer
 - [Tech101](https://www.tech101.co.uk/) | Kamaladi, Kathmandu | Web design, web development, graphics design and digital marketing
 - [ThemeGrill](https://themegrill.com/) | Basundhara, Kathmandu | Free and Premium WordPress Themes Store
-- [Three Monks](http://www.threemonk.com/) | Sinamangal, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
+- [Three Monks](http://www.threemonk.com/) | New Baneshwor, Kathmandu | Carter the growing needs in the space of technical expertise with special focus on Digital Financial Services, Money Transfer Business and Entertainment Companies
 - [Unelma Platforms](http://unelmaplatforms.com/) | Ratnanagar, Chitwan | Unelma Platforms is a provider of software development services for higher-education, healthcare and business markets
 - [UniAxilSoftwares](http://uniaxialsoftwares.com/) | Anamnagar, Kathmandu | Innovation - for real world problems
+- [Unifun](https://unifun.com/) | Nagpokhari, Kathmandu | Unifun is a provider of high-class IT products for Mobile Operators
 
 ## V - X
 - [Verisk Nepal](http://verisknepal.com.np/) | Hattisar, Kathmandu | Verisk Nepal is the software development and information technology (IT) service support center for Verisk Analytics
